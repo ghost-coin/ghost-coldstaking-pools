@@ -1,0 +1,9 @@
+[
+	{
+		"label": "title of this pool",
+		"description": "additional info",
+		"website": "website link",
+		"fee": "pool fee percent",
+		"public_key": "public key here"
+	}
+]
