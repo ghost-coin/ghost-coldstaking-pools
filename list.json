@@ -7,3 +7,13 @@
         "public_key": "gcs12ezltnndc6f6ds4zcwdy82d6mv94xx2anch950"
     }
 ]
+
+[
+    {
+        "label": "MyGhost.org Ghost Pool",
+        "description": "Coldstaking pool for Ghost",
+        "website": "https://myghost.org",
+        "fee": "5",
+        "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
+    }
+]
