@@ -20,5 +20,13 @@
         "fee": "3.5",
         "stakebonus" : "1",
         "public_key": "gcs1wmr49e2fd8p09dll8djdfsek6m5zuxhjdq3c4c"
+    },
+    {
+        "label": "Novastera.eu Ghost Pool",
+        "description": "Novastera coldstaking community",
+        "website": "https://ghost.novastera.eu/",
+        "fee": "3",
+        "stakebonus" : "1",
+        "public_key": "gcs1gujv3jjfec75pqkezjckskxw9cfvvdmjkw5g6x"
     }
 ]
