@@ -5,5 +5,12 @@
         "website": "https://ghost.coldstake.io",
         "fee": "5",
         "public_key": "gcs12ezltnndc6f6ds4zcwdy82d6mv94xx2anch950"
+    },
+    {
+        "label": "Ghoststake.io Ghost Pool",
+        "description": "Coldstaking pool for Ghost",
+        "website": "https://ghoststake.com/",
+        "fee": "4",
+        "public_key": "gcs1cxgy3uzz05djx5j0g40trxkweq7jwllkzzpkf5"
     }
 ]
