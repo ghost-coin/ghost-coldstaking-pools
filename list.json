@@ -4,6 +4,7 @@
         "description": "Coldstaking pool for Ghost",
         "website": "https://ghost.coldstake.io",
         "fee": "5",
+        "stakebonus" : "0",
         "public_key": "gcs12ezltnndc6f6ds4zcwdy82d6mv94xx2anch950"
     },
     {
@@ -11,6 +12,7 @@
         "description": "Coldstaking pool for Ghost",
         "website": "https://ghoststake.com/",
         "fee": "4",
+        "stakebonus" : "0",
         "public_key": "gcs1cxgy3uzz05djx5j0g40trxkweq7jwllkzzpkf5"
     },
     {
@@ -38,9 +40,10 @@
         "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
     },
     {
-        "label": "Ghost.Cheap The cheapest Ghost staking pool",
+        "label": "Ghost.Cheap Coldstake Pool",
         "description": "The cheapest Ghost Staking Pool",
         "website": "https://ghost.cheap",
+        "stakebonus" : "0",
         "fee": "2.5",
         "public_key": "gcs1ekjm66egt02emteu75gyheg2jeytw3tdsnaysk"
     }
