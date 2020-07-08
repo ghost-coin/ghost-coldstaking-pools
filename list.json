@@ -37,4 +37,11 @@
         "stakebonus" : "1",
         "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
     }
+    {
+        "label": "Ghost.Cheap The cheapest Ghost staking pool",
+        "description": "The cheapest Ghost Staking Pool",
+        "website": "https://ghost.cheap",
+        "fee": "2.5",
+        "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
+    }
 ]
