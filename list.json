@@ -43,8 +43,8 @@
         "label": "Ghost.Cheap Coldstake Pool",
         "description": "The cheapest Ghost Staking Pool",
         "website": "https://ghost.cheap",
+        "fee": "0",
         "stakebonus" : "0",
-        "fee": "2.5",
         "public_key": "gcs1ekjm66egt02emteu75gyheg2jeytw3tdsnaysk"
     }
 ]
