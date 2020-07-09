@@ -11,7 +11,7 @@
         "label": "Ghoststake.com Ghost Pool",
         "description": "Coldstaking pool for Ghost",
         "website": "https://ghoststake.com/",
-        "fee": "4",
+        "fee": "0",
         "stakebonus" : "0",
         "public_key": "gcs1cxgy3uzz05djx5j0g40trxkweq7jwllkzzpkf5"
     },
