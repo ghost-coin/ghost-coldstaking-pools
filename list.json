@@ -4,7 +4,7 @@
         "description": "Coldstaking pool for Ghost",
         "website": "https://ghost.coldstake.io/",
         "fee": "5",
-        "stakebonus" : "0",
+        "stakebonus" : "3",
         "public_key": "gcs12ezltnndc6f6ds4zcwdy82d6mv94xx2anch950"
     },
     {
