@@ -46,5 +46,13 @@
         "fee": "0",
         "stakebonus" : "0",
         "public_key": "gcs1ekjm66egt02emteu75gyheg2jeytw3tdsnaysk"
+    },
+    {
+        "label": "Ghost-Pool.net Ghost Cold Staking Pool",
+        "description": "Reliable, Low-Fee Ghost Cold Staking Pool",
+        "website": "https://ghost-pool.net/",
+        "fee": "2.5",
+        "stakebonus" : "1",
+        "public_key": "gcs154p3rm80dg3arc5jak3293mkgk45uhfggej3da"
     }
 ]
