@@ -58,7 +58,7 @@
     {
         "label": "Mega.Myghost.org",
         "description": "Alternative ghost community coldstaking pool",
-        "website": "https://mega.myghost.org",
+        "website": "https://mega.myghost.org/",
         "fee": "2.5",
         "stakebonus" : "0.5",
         "public_key": "gcs1wzjvh9cmdf5h9atk785tvmu68729534rzu34p6"
