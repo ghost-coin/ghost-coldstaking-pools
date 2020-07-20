@@ -35,8 +35,8 @@
         "label": "MyGhost.org Coldstake Pool",
         "description": "Datacenter hosted community staking pool",
         "website": "https://myghost.org/",
-        "fee": "3",
-        "stakebonus" : "1",
+        "fee": "1",
+        "stakebonus" : "0",
         "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
     },
     {
@@ -59,7 +59,7 @@
         "label": "Mega.Myghost.org",
         "description": "Alternative ghost community coldstaking pool",
         "website": "https://mega.myghost.org/",
-        "fee": "2.5",
+        "fee": "1",
         "stakebonus" : "0.5",
         "public_key": "gcs1wzjvh9cmdf5h9atk785tvmu68729534rzu34p6"
     }
