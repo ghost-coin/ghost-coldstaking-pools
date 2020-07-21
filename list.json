@@ -25,9 +25,9 @@
     },
     {
         "label": "Novastera EU Ghost Pool",
-        "description": "Novastera pool, objective is to have pools on different continent",
+        "description": "Novastera pool, aiming at having pools on different continent for decentralisation",
         "website": "https://ghost.novastera.eu/",
-        "fee": "2",
+        "fee": "1",
         "stakebonus" : "0.5",
         "public_key": "gcs1gujv3jjfec75pqkezjckskxw9cfvvdmjkw5g6x"
     },
