@@ -62,5 +62,13 @@
         "fee": "1",
         "stakebonus" : "0.5",
         "public_key": "gcs1wzjvh9cmdf5h9atk785tvmu68729534rzu34p6"
+    },
+    {
+        "label": "GhostColdStakingPool",
+        "description": "No Fees, Best Staking Reward to date!",
+        "website": "https://ghostcsp.ddns.net/",
+        "fee": "0",
+        "stakebonus" : "12",
+        "public_key": "gcs1gvdfylxy4597rq5qutqelr9m37ewtsvzkza8j2"
     }
 ]
