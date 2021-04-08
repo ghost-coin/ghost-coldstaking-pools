@@ -1,10 +1,10 @@
 [
     {
         "label": "GHOSTAKE.COM: GHOST Cold Staking Pool",
-        "description": "0.5% Fee & 10% Rewards. Ghost Cold Staking Pool.",
+        "description": "Ghost Cold Staking Pool.",
         "website": "https://ghostake.com",
-        "fee": "0.5",
-        "stakebonus": "10",
+        "fee": "1",
+        "stakebonus": "3",
         "public_key": "gcs1al0tw5g8danpluh2rsqxkd5cj4sc08wc2tsvjt"
     },
     {
