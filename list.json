@@ -16,44 +16,12 @@
         "public_key": "gcs12ezltnndc6f6ds4zcwdy82d6mv94xx2anch950"
     },
     {
-        "label": "Ghoststake.com Ghost Pool",
-        "description": "Coldstaking pool for Ghost",
-        "website": "https://ghoststake.com/",
-        "fee": "0",
-        "stakebonus" : "0",
-        "public_key": "gcs1cxgy3uzz05djx5j0g40trxkweq7jwllkzzpkf5"
-    },
-    {
-        "label": "Novastera EU Ghost Pool",
-        "description": "Novastera pool, aiming at having pools on different continent for decentralisation",
-        "website": "https://ghost.novastera.eu/",
-        "fee": "1",
-        "stakebonus" : "0.5",
-        "public_key": "gcs1gujv3jjfec75pqkezjckskxw9cfvvdmjkw5g6x"
-    },
-    {
         "label": "MyGhost.org Coldstake Pool",
         "description": "Datacenter hosted community staking pool",
         "website": "https://myghost.org/",
         "fee": "1",
         "stakebonus" : "5",
         "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
-    },
-    {
-        "label": "Ghost.Cheap Coldstake Pool",
-        "description": "The cheapest Ghost Staking Pool",
-        "website": "https://ghost.cheap/",
-        "fee": "0",
-        "stakebonus" : "5",
-        "public_key": "gcs10hnqtq2uvm538n8xck5e7phyqgast5v2m5wv7f"
-    },
-    {
-        "label": "Ghost-Pool.net Ghost Cold Staking Pool",
-        "description": "Reliable, Low-Fee Ghost Cold Staking Pool",
-        "website": "https://ghost-pool.net/",
-        "fee": "2.5",
-        "stakebonus" : "1",
-        "public_key": "gcs154p3rm80dg3arc5jak3293mkgk45uhfggej3da"
     },
     {
         "label": "Mega.Myghost.org",
