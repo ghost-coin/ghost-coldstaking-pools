@@ -3,7 +3,7 @@
         "label": "GHOSTAKE.COM: GHOST Cold Staking Pool",
         "description": "Ghost Cold Staking Pool.",
         "website": "https://ghostake.com",
-        "fee": "1",
+        "fee": "2",
         "stakebonus": "2",
         "public_key": "gcs1al0tw5g8danpluh2rsqxkd5cj4sc08wc2tsvjt"
     },
@@ -19,8 +19,8 @@
         "label": "MyGhost.org Coldstake Pool",
         "description": "Datacenter hosted community staking pool",
         "website": "https://myghost.org/",
-        "fee": "1",
-        "stakebonus" : "5",
+        "fee": "3",
+        "stakebonus" : "10",
         "public_key": "gcs179wukwy95kewa6pex7f47w3xuzn3nywqdng394"
     },
     {
@@ -35,8 +35,8 @@
         "label": "GhostColdStakingPool",
         "description": "No Fees, Best Staking Reward to date!",
         "website": "https://ghostcsp.ddns.net/",
-        "fee": "0",
-        "stakebonus" : "12",
+        "fee": "1",
+        "stakebonus" : "13",
         "public_key": "gcs1gvdfylxy4597rq5qutqelr9m37ewtsvzkza8j2"
     }
 ]
