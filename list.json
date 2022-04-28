@@ -32,6 +32,14 @@
         "public_key": "gcs1wzjvh9cmdf5h9atk785tvmu68729534rzu34p6"
     },
     {
+        "label": "GhostStakingPoolPoS", 
+        "description": "GHOST COLD STAKING - your passive income, financial freedom and anonymity on the web", 
+        "website": "https://superghostpos.ru/", 
+        "fee": "5",
+        "stakebonus" : "15",
+        "public_key": "gcs1zn850aeltu0d85fruw4wf5yt2e4nj990802p2r" 
+    },
+    {
         "label": "GhostColdStakingPool",
         "description": "No Fees, Best Staking Reward to date!",
         "website": "https://ghostcsp.ddns.net/",
