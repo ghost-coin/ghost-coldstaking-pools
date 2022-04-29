@@ -38,5 +38,13 @@
         "fee": "1",
         "stakebonus" : "13",
         "public_key": "gcs1gvdfylxy4597rq5qutqelr9m37ewtsvzkza8j2"
-    }
+    },
+    {
+        "label": "GhostStakingPoolPoS",
+        "description": "GHOST COLD STAKING - your passive income, financial freedom and anonymity on the web",
+        "website": "https://superghostpos.ru/",
+        "fee": "3",
+        "stakebonus" : "15",
+        "public_key": "gcs1zn850aeltu0d85fruw4wf5yt2e4nj990802p2r"
+}
 ]
