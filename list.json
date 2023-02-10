@@ -46,5 +46,13 @@
         "fee": "3",
         "stakebonus" : "15",
         "public_key": "gcs1zn850aeltu0d85fruw4wf5yt2e4nj990802p2r"
+    },
+    {
+        "label": "пул.гост.рус",
+        "description": "Первый СНГ Пул Холодного Стейкинга",
+        "website": "https://пул.гост.рус",
+        "fee": "5",
+        "stakebonus" : "13",
+        "public_key": "gcs169zkwmr9zt8mz2epql8wnly3dyf4hkavcprrm2"
 }
 ]
